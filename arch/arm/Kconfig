@@ -304,9 +304,9 @@ config GENERIC_BUG
 
 config THERMAL_SWITCH
     default n
-	bool "Support themral config switch"
+	bool "Support thermal config switch"
 	help
-      Support themral config switch.
+      Support thermal config switch.
 
 source "init/Kconfig"
 
